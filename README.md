@@ -1,10 +1,14 @@
-This repository contains materials for the workshop "From Audio to Text: Automated Transcriptions with Whisper" hosted by the Data Science Center (DSC) at the University of Bremen. The materials were developed by Annika Nolte and Nele Fuchs.
+# Whisper Audio to Text Transcription and Speaker Diarization - Python Workflows
 
-The materials contain:
+This repository provides hands-on, self-learning notebooks for building a Python workflow for speech-to-text and speaker-aware transcripts. It shows how to use OpenAI Whisper with [WhisperX](https://github.com/m-bain/whisperX) and [faster-whisper](https://github.com/SYSTRAN/faster-whisper), including [pyannote.audio](https://github.com/pyannote/pyannote-audio) for speaker diarization.
 
-/Notebooks (Jupyter notebooks for preprocessing audio files and conducting transcription including speaker diarization)<br>
-/Images (images loaded in the Jupyter notebooks)<br>
-/Data (datasets downloaded and loaded in the Jupyter notebooks)<br>
-/Results (exemplary transcribed text)
+The repository consists of:
 
-Note that the provided notebooks were created with greatest care, but no guarantee can be given for the correctness of the analyses.
+/Notebooks (Jupyter notebooks for preprocessing audio files and conducting transcription including speaker diarization) <br>
+/Images (images loaded in the Jupyter notebooks) <br>
+/Data (datasets downloaded and loaded in the Jupyter notebooks) <br>
+/Results (exemplary transcribed text) <br>
+
+>About the project
+>
+>This repository was developed and delivered as part of workshops within the framework of the DataNord project at the Data Science Center of the University of Bremen. The DataNord project is funded under the grant number 16DKZ2026A by the Federal Ministry of Research, Technology and Space (BMFTR) >and financed by the European Union – NextGenerationEU. It is part of a broader initiative to strengthen data literacy among researchers by offering practical, hands-on training in core areas of 1) data science, 2) research data management (RDM), 3) critical thinking, and 4) ethical, legal and social aspects (ELSA). The materials were developed by Annika Nolte and Nele Fuchs.
