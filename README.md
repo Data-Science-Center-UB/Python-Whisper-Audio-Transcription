@@ -9,6 +9,7 @@ The repository consists of:
 /Data_Raw (datasets downloaded and loaded in the Jupyter notebooks) <br>
 /Data_Preprocessed (a single intermediate audio file created in the faster-whisper-pyannote.py notebook that holds the input audio converted to a consistent format) <br>
 /Results (exemplary transcribed text) <br>
+/requirements.txt (Python packages needed to run the notebooks; install with `pip install -r requirements.txt`) <br>
 
 >About the project
 >
