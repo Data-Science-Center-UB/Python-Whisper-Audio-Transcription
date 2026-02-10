@@ -1,4 +1,6 @@
-pydub==0.25.1
-imageio-ffmpeg==0.6.0
 faster-whisper==1.2.1
 pyannote-audio==4.0.3
+torch
+torchaudio
+soundfile
+imageio-ffmpeg==0.6.0
