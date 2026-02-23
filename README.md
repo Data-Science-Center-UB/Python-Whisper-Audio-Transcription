@@ -2,6 +2,8 @@
 
 This repository provides hands-on, self-learning notebooks for building a Python workflow for speech-to-text and speaker-aware transcripts. It shows how to use OpenAI Whisper with [faster-whisper](https://github.com/SYSTRAN/faster-whisper), including [pyannote.audio](https://github.com/pyannote/pyannote-audio) for speaker diarization.
 
+You can use the materials in the GitHub repository to deliver a Whisper-based audio transcription workshop. All other workshop materials are published as an open educational resource [here](https://doi.org/10.5281/zenodo.18693970).
+
 The repository consists of:
 
 /Notebooks (Jupyter notebooks for preprocessing audio files and conducting transcription including speaker diarization) <br>
