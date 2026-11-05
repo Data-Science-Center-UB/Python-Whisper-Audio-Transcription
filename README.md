@@ -6,12 +6,13 @@ You can use the materials in the GitHub repository to deliver a Whisper-based au
 
 The repository consists of:
 
-/Notebooks (Jupyter notebooks for preprocessing audio files and conducting transcription including speaker diarization) <br>
-/Images (images loaded in the Jupyter notebooks) <br>
-/Data_Raw (datasets downloaded and loaded in the Jupyter notebooks) <br>
-/Data_Preprocessed (a single intermediate audio file created in the faster-whisper-pyannote.py notebook that holds the input audio converted to a consistent format) <br>
-/Results (exemplary transcribed text) <br>
-/requirements.txt (Python packages needed to run the notebooks; install with `pip install -r requirements.txt`) <br>
+- `/Notebooks` (Jupyter notebooks for preprocessing audio files and conducting transcription including speaker diarization)
+- `/Images` (images loaded in the Jupyter notebooks)
+- `/Data_Raw` (datasets downloaded and loaded in the Jupyter notebooks)
+- `/Data_Preprocessed` (an intermediate audio file created in the `faster-whisper-pyannote.ipynb` notebook that holds the input audio converted to a consistent format)
+- `/Models` (location for optional custom or fine-tuned Whisper models in CTranslate2 format)
+- `/Results` (exemplary transcribed text)
+- `/requirements.txt` (Python packages needed to run the notebooks; install with `pip install -r requirements.txt`)
 
 >About the project
 >
