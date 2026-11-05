@@ -1,0 +1,1 @@
+Custom or fine-tuned Whisper models can also be used with this workflow by placing them in the `Models/` folder and specifying their local path when loading the model. For example, a CTranslate2-converted version of the [fine-tuned Swahili Whisper-small model](https://huggingface.co/adoamesh/whisper-small-swh-finetuned) can be used (`whisper-small-swh-finetuned-ct2`).
